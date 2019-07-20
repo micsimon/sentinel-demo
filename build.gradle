@@ -7,6 +7,5 @@ repositories {
 }
 
 dependencies {
-    implementation group: 'com.alibaba.csp', name: 'sentinel-core', version: '1.6.2'
-
+    imple group: 'com.alibaba.csp', name: 'sentinel-core', version: '1.6.2'
 }
